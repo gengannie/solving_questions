@@ -1,3 +1,7 @@
+listB = [1 for i in range(5)]
+for i in listB:
+    print (i)
+
 # count starts at 0 and increments
 values = [1,2,3,4]
 for count, value in enumerate(values):
