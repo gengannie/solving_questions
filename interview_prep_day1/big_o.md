@@ -6,7 +6,7 @@
 - Logarithmic: O(long(n))
 - Log linear O(nlog(n))
 
-## Array Time Complexity (average)
+## Lists (dynamic arrays in python) Time Complexity (average)
 
 - access O(1)
 - search, insertion, deletion O(n)
