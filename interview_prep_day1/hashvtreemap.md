@@ -12,3 +12,6 @@
 ## Ordered Dicitonary 
 - inserted keys in order 
 - "from collections import OrderedDict"
+- od = OrderedDict()
+- If the value of a certain key is changed, the position of the key remains unchanged in OrderedDict.
+- od.pop("key")
